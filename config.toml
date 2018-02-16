@@ -50,20 +50,20 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Jesus Garrido"
+  role = "Postdoctoral Researcher in Computational Neuroscience"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "University of Granada", url = "http://www.ugr.es" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  email = "jesusgarrido@ugr.es"
+  address = "CITIC-UGR. Room D1.3. Calle Periodista Rafael Gómez Montero 2, 18071, Granada (Spain)"
+  office_hours = ""
+  phone = "+34958241776"
+  skype = "jgarridoalcazar"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -217,22 +217,22 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:jesusgarrido@ugr.es"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+  #[[params.social]]
+  #  icon = "twitter"
+  #  icon_pack = "fa"
+  #  link = "//twitter.com/GeorgeCushen"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.com/citations?user=pgh3GRcAAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/jgarridoalcazar"
 
 
 # Navigation Links
@@ -253,25 +253,25 @@ defaultContentLanguageInSubdir = false
   url = "#publications_selected"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 4
+  weight = 3
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 5
+  weight = 4
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 5
 
 # Taxonomies.
 [taxonomies]
