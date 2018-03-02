@@ -4,6 +4,3 @@
 [submodule "jgarridoalcazar.github.io"]
 	path = jgarridoalcazar.github.io
 	url = git@github.com:jgarridoalcazar/jgarridoalcazar.github.io.git
-[submodule "public"]
-	path = public
-	url = git@github.com:jgarridoalcazar/jgarridoalcazar.github.io.git
