@@ -3,10 +3,10 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://www.ugr.es/~jesusgarrido/"
+baseurl = "https://www.ugr.es/~neurorobotics/"
 
 # Title of your site
-title = "Personal Website"
+title = "Computational Neuroscience and Neurorobotics"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -23,7 +23,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-114581343-1"
+googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -50,20 +50,20 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Jesus Garrido"
-  role = "Postdoctoral Researcher in Computational Neuroscience"
+  name = ""
+  role = ""
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Granada", url = "http://www.ugr.es" } ]
+  organizations = []
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "jesusgarrido@ugr.es"
-  address = "CITIC-UGR. Room D1.3. Calle Periodista Rafael Gómez Montero 2, 18071, Granada (Spain)"
+  avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "neurorobotics@ugr.es"
+  address = "CITIC-UGR. Calle Periodista Rafael Gómez Montero 2, 18071, Granada (Spain)"
   office_hours = ""
-  phone = "+34958241776"
-  skype = "jgarridoalcazar"
+  phone = ""
+  skype = ""
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -217,32 +217,32 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:jesusgarrido@ugr.es"
+    link = "mailto:neurorobotics@ugr.es"
 
   #[[params.social]]
   #  icon = "twitter"
   #  icon_pack = "fa"
   #  link = "//twitter.com/GeorgeCushen"
 
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.com/citations?user=pgh3GRcAAAAJ"
+  #[[params.social]]
+  #  icon = "google-scholar"
+  #  icon_pack = "ai"
+  #  link = "https://scholar.google.com/citations?user=pgh3GRcAAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/jgarridoalcazar"
+    link = "//github.com/eduardoroslab"
 
-  [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/jesusgarridoalcazar/"
+  #[[params.social]]
+  #  icon = "linkedin"
+  #  icon_pack = "fa"
+  #  link = "https://www.linkedin.com/in/jesusgarridoalcazar/"
 
-  [[params.social]]
-    icon = "researchgate"
-    icon_pack = "ai"
-    link = "https://www.researchgate.net/profile/Jesus_Garrido4"
+  #[[params.social]]
+  #  icon = "researchgate"
+  #  icon_pack = "ai"
+  #  link = "https://www.researchgate.net/profile/Jesus_Garrido4"
 
 
 # Navigation Links

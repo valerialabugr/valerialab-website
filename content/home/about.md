@@ -8,36 +8,41 @@ date = "2018-02-16T00:00:00"
 weight = 5
 
 # List your academic interests.
-[interests]
-  interests = [
-    "Computational Neuroscience",
-    "Cerebellum",
-    "Neurorobotics",
-    "Learning"
-  ]
+#[interests]
+#  interests = [
+#    "Computational Neuroscience",
+#    "Cerebellum",
+#    "Neurorobotics",
+#    "Learning"
+#  ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Computational Neuroscience"
-  institution = "University of Granada"
-  year = 2011
+#[[education.courses]]
+#  course = "PhD in Computational Neuroscience"
+#  institution = "University of Granada"
+#  year = 2011
 
-[[education.courses]]
-  course = "MSc in Computer Architecture and Networks"
-  institution = "University of Granada"
-  year = 2007
+#[[education.courses]]
+#  course = "MSc in Computer Architecture and Networks"
+#  institution = "University of Granada"
+#  year = 2007
 
-[[education.courses]]
-  course = "MSc in Computer Science"
-  institution = "University of Granada"
-  year = 2006
+#[[education.courses]]
+#  course = "MSc in Computer Science"
+#  institution = "University of Granada"
+#  year = 2006
  
 +++
 
-# Biography
+The Computational Neuroscience and Neurorobotics Group is part of the Computer Architecture and Technologoy Department at University of Granada. The group is leaded by Prof. Eduardo Ros. Our group develops and uses computational tools to gain understanding on brain information processing and motor control.
 
-I am a senior postdoctoral researcher at the Computational Neuroscience and Neurorobotics Lab of the University of Granada. My research interests include the creation of computational models to gain knowledge on how the brain obtains such an astonishing performance in so many different tasks and, in particular, motor control. Once we understand the biological bases we apply these computational models to control robots, mimicking the way the brain controls our bodies. 
+We are experts in simulating neural centres (such as cerebellum, inferior olive, basal ganglia, etc; also vision) both off-line (in large parallel computers) or in real-time (towards embedded simulations) with a robot on the loop (closed perception-action loops).
 
-I have specialized in cerebellum modelling, as this small brain centre is tighly related to the coordination and movement. I feel mainly attracted by the plasticity mechanisms that support the formation of motor memories and sensorial representations.
+Among other potential application domains, rehabilitation, control schemes for robots interacting safely with humans, reverse engineering of human brain system, etc; are our focus.
 
-You can find more information about my professional career in {{% staticref "files/Resume_JGarrido.pdf" %}}my CV{{% /staticref %}}.
+Our value proposition is the following:
+
+* Computational Neuroscience. We simulate biologically plausible neural systems (at different levels of detail) to contrast working hypothesis related to these centres and evaluate how their computational features are supported by the neuorophisiological substrate. We can do large scale simulations (off-line) and medium scale simulations (for embedded systems and interacting with robotics). For this purpose, we can use widely used simulators such as NEST or our own real-time simulator
+(EDLUT) optimized for real-time (making intensive use of parallel computing at the CPU and GPU levels).
+
+* Neurorobotics. Robots with low power actuators can be designed to be inherently safe, furthermore with soft and flexible materials. But in this case, the dynamics (and even the kinematics) of the plant may not have an analytic reference model. Furthermore, some of these actuators or the plant itself may have long perception or action delays making standard control schemes challenging. In this framework, biology is still far away of our best solution. Our value proposition is to use biologically inspired adaptive control (similarly to what the cerebellum is actually doing) based on model acquisition and retrieval. This can be embedded in the control loops for safe robots (with unknown dynamic and kinematic models and possibly long latency control loops).
