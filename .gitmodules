@@ -7,3 +7,4 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:EduardoRosLab/compneuro.github.io.git
+	branch = master
