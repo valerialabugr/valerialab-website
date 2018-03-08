@@ -14,7 +14,7 @@ summary = "CEREBSENSING aims to understand how the cerebellum processes sensoria
 image_preview = "marie_curie.jpg"
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://www.ugr.es/~jesusgarrido/project/cerebsensing/"
 
 # Does the project detail page use math formatting?
 math = false
