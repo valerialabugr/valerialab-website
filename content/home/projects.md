@@ -20,6 +20,9 @@ folder = "project"
 # Legend: 0 = list, 1 = cards.
 view = 1
 
+# Number of publications to list.
+count = 2
+
 # Filter toolbar.
 
 # Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).

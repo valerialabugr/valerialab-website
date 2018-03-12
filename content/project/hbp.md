@@ -11,7 +11,7 @@ tags = ["cerebellum", "neurorobotics"]
 summary = "The HBP is a European flagship initiative aiming to build a research infrastructure to help advance neuroscience, medicine and computing based on brain computational modelling. Our group is included as part of the Neurorobotics Subproject (SP10)."
 
 # Optional image to display on homepage.
-image_preview = "hbp_logo.jpg"
+image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://www.humanbrainproject.eu"

@@ -1,6 +1,6 @@
 +++
 title = "Cerebsensing"
-date = 2018-02-17T10:57:53+01:00
+date = 2015-02-17T10:57:53+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -8,10 +8,10 @@ draft = false
 tags = ["cerebellum", "learning", "distributed plasticity", "neurorobotics"]
 
 # Project summary to display on homepage.
-summary = "CEREBSENSING aims to understand how the cerebellum processes sensorial information coming from the cerebral cortex by using computational models embedded in realistic perception-action simulations."
+summary = "CEREBSENSING is a H2020 Marie Sklodowska-Curie Action (IF) aiming to understand how the cerebellum processes sensorial information coming from the cerebral cortex by using computational models embedded in realistic perception-action simulations."
 
 # Optional image to display on homepage.
-image_preview = "marie_curie.jpg"
+image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://www.ugr.es/~jesusgarrido/project/cerebsensing/"

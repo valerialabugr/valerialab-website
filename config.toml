@@ -93,7 +93,7 @@ defaultContentLanguageInSubdir = false
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
   map = 1
-  map_api_key = ""
+  map_api_key = "AIzaSyDB8IhyLVfmhUia73wvdiMbGOuJNdREb78"
   latitude = "37.1977852"
   longitude = "-3.6240453"
   zoom = 15
@@ -263,10 +263,10 @@ defaultContentLanguageInSubdir = false
   url = "#publications_selected"
   weight = 2
 
-#[[menu.main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 3
+[[menu.main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 3
 
 [[menu.main]]
   name = "People"
