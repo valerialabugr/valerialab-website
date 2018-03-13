@@ -1,11 +1,11 @@
 +++
 title = "Jesús Garrido"
-date = 2018-02-17T10:57:53+01:00
+date = 2015-02-17T10:57:53+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["postdoctoral researcher"]
+tags = ["postdoctoral researcher","cerebellum", "spiking-neural-networks", "neurorobotics"]
 
 # Project summary to display on homepage.
 summary = "Senior researcher"
@@ -14,7 +14,7 @@ summary = "Senior researcher"
 image_preview = "jgarrido.jpg"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://www.ugr.es/~jesusgarrido/"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
@@ -30,6 +30,7 @@ caption = ""
 
 +++
 
+![Jesus Garrido](/img/jgarrido.jpg)
 
 I am a senior postdoctoral researcher at the Computational Neuroscience and Neurorobotics Lab of the University of Granada. My research interests include the creation of computational models to gain knowledge on how the brain obtains such an astonishing performance in so many different tasks and, in particular, motor control. Once we understand the biological bases we apply these computational models to control robots, mimicking the way the brain controls our bodies.
 

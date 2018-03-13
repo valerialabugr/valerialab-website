@@ -1,5 +1,5 @@
 +++
-title = "Cerebsensing"
+title = "CEREBSENSING: Cerebellar Distributed Plasticity Towards Active Sensing and Motor Control"
 date = 2015-02-17T10:57:53+01:00
 draft = false
 
