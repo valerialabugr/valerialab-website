@@ -1,5 +1,5 @@
 +++
-title = “Richard R. Carrillo“
+title = "Richard R. Carrillo"
 date = 2016-02-17T10:57:53+01:00
 draft = false
 
@@ -11,10 +11,10 @@ tags = ["postdoctoral researcher"]
 summary = "Senior researcher"
 
 # Optional image to display on homepage.
-image_preview = “rcarrillo.jpg"
+image_preview = "rcarrillo.jpg"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "”
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
