@@ -51,7 +51,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "JabRef", url = "jabref/luque2011b.bib"},{name = "Journal", url = "http://ieeexplore.ieee.org/abstract/document/5928419/ "}]
+url_custom = [{name = "Journal", url = "http://ieeexplore.ieee.org/abstract/document/5928419/ "}]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

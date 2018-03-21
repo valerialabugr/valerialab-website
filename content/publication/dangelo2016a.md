@@ -51,7 +51,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "JabRef", url = "jabref/dangelo2016a.bib"},{name = "Journal", url = "https://link.springer.com/article/10.1007/s12311-015-0711-7" }]
+url_custom = [{name = "Journal", url = "https://link.springer.com/article/10.1007/s12311-015-0711-7" }]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
