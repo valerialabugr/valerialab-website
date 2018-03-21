@@ -39,7 +39,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["EDLUT"]
 
 # Links (optional).
 url_pdf = "pdf/garrido2011.pdf"
