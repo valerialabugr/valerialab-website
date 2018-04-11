@@ -35,5 +35,7 @@ I am a senior postdoctoral researcher with the [Computer Vision and Robotics Lab
 
 During the last years as a Marie Curie IOF Fellow at the University of Maryland I worked on novel strategies for 3D reconstruction, segmentation, or motion analyisis not only using conventional sensors but rather biologically inspired asynchronous frame-free sensors. I am currently interested in smart sensors and IoT, robotics and manipulation, autonomous navigation, and machine-learning applications for behavioural analysis in video-surveillance and Smart Health. 
 
-You can find more information about my professional career in [my personal website](http://www.ugr.es/~fbarranco/)
+You can find more information about my professional career in [my personal website](http://www.ugr.es/~fbarranco/).
+
+Contact email: fbarranco at ugr dot es.
 

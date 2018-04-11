@@ -3,10 +3,10 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://eduardoroslab.github.io/"
+baseurl = "http://acn.ugr.es/"
 
 # Title of your site
-title = "Computational Neuroscience and Neurorobotics"
+title = "Applied Computational Neuroscience Research Group"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -59,7 +59,7 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "logo_ugr.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "neurorobotics@ugr.es"
+  email = ""
   address = "CITIC-UGR. Calle Periodista Rafael Gómez Montero 2, 18071, Granada (Spain)"
   office_hours = ""
   phone = ""

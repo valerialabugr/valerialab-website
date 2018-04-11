@@ -36,5 +36,7 @@ I am a senior postdoctoral researcher at the Computational Neuroscience and Neur
 
 I have specialized in cerebellum modelling, as this small brain centre is tighly related to the coordination and movement. I feel mainly attracted by the plasticity mechanisms that support the formation of motor memories and sensorial representations.
 
-You can find more information about my professional career in [my personal website](http://www.ugr.es/~jesusgarrido/)
+You can find more information about my professional career in [my personal website](http://www.ugr.es/~jesusgarrido/).
+
+Contact email: jesusgarrido at ugr dot es.
 

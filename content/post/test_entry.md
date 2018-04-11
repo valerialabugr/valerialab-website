@@ -20,4 +20,4 @@ preview = true
 
 +++
 
-Welcome to the new website of the Computational Neuroscience and Neurorobotics Research Group at the University of Granada. In this section we will post the exciting news from the group and we will let you know about our amazing robotics systems powered by the brain. Stay tuned!!!
+Welcome to the new website of the Applied Computational Neuroscience (ACN) Research Group at the University of Granada. This website can be found in the address [http://acn.ugr.es](http://acn.ugr.es). In this section we will post the exciting news from the group and we will let you know about our amazing robotics systems powered by the brain. Stay tuned!!!

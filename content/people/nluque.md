@@ -52,5 +52,7 @@ From this perspective, and thanks to the exponential computational performance e
 
 In such scenario I have been developing my research during these years in the framework of three European projects (SENSOPAC, REALNET and HBP ) helping to develop different models of diverse nervous system elements(cerebellum, inferior olive nucleus and cuneate nucleus) in cooperation with different research groups from neurophysiology trough computational neurobiology to robotics. My main research interest aims at better understanding the functional involvement of the cerebellar spiking nervous sub-circuits embedded in biological plausible control loops as a whole.
 
-You can find more information about my professional career in [my personal website](http://www.ugr.es/~nluque/)
+You can find more information about my professional career in [my personal website](http://www.ugr.es/~nluque/).
+
+Contact email: nluque at ugr dot es.
 

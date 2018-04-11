@@ -38,3 +38,5 @@ From 2012 to 2014, I participated in an EU project related to adaptive learning 
  
 My research interests include the simulation of spiking neural networks in real-time for embodiment experiments. More concretely, I am interested in the cerebellum, a small brain centre tightly related with the coordination of movements. Our research group has developed a cerebelar model able to perform embodiment experiments with simulated and real robots in real-time, mimicking the way the brain controls our bodies. This kind of embodiment experiments require from specializes tools able to perform the whole simulation in real-time. During my PhD degree I have been focussed in the development of EDLUT, a spiking neural network simulator integrating event-driven and time-driven computation schemes using parallel CPU-GPU co-processing. This simulator has been specially designed to perform embodiment experiments in real-time.
 
+Contact email: fnaveros at ugr dot es.
+

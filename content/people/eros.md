@@ -44,3 +44,6 @@ Some recent awarded grants in which he participates as PI that can be highlighte
 
 An extensive list of scientific production (with references indications) is available at my [Google Scholar profile] (https://scholar.google.com/citations?user=lyL3mVoAAAAJ) . Some biblimetric indicators of the impact of his scientific production according to google scholar are an h-index of 31 (with a total of more than 3000 cites, more than 1600 in the last 5 years).
 
+You can find more information about my professional career in [my personal website](http://www.ugr.es/~eros/). 
+
+Contact email: eros at ugr dot es.

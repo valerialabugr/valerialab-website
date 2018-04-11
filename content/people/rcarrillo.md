@@ -36,5 +36,7 @@ Richard R. Carrillo is a postodoctoral fellow in the Research Center for Informa
 
 More specifically, he has conducted research on event-driven simulation schemes, cerebellar modeling and plasticity, network synchronicity, control of robotic arm trajectory and neural modeling.
 
-You can find more information about my professional career in [my personal website](http://www.rrcarrillo.com/)
+You can find more information about my professional career in [my personal website](http://www.rrcarrillo.com/).
+
+Contact email: rcarrillo at ugr dot es.
 
