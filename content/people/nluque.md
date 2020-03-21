@@ -5,10 +5,10 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["postdoctoral researcher","biologically-processing-control-schemes", "lightweight-robots", "cerebellar-spiking-neural-networks", "cerebellar-plasticity"]
+tags = ["faculty","biologically-processing-control-schemes", "lightweight-robots", "cerebellar-spiking-neural-networks", "cerebellar-plasticity"]
 
 # Project summary to display on homepage.
-summary = "Senior researcher"
+summary = "Associate Professor"
 
 # Optional image to display on homepage.
 image_preview = "nluque.jpg"
@@ -34,7 +34,7 @@ caption = ""
 
 ## Short bio
 
-I received my B.S in Electronics Engineering and a M.S. in Automatics and Industrial Electronics from the University of Cordoba (Spain) in 2003 and 2006, respectively. In April 2007 I officially joined to the University of Granada with a National Grant as a researcher of the European Project SENSOPAC .I also received my M.S. in Computer Architecture and Networks from the University of Granada in 2007. Finally, I received my Doctorate from the University of Granada in 2013 in Control Engineering and Computer Science. 
+I received my B.S in Electronics Engineering and a M.S. in Automatics and Industrial Electronics from the University of Cordoba (Spain) in 2003 and 2006, respectively. In April 2007 I officially joined to the University of Granada with a National Grant as a researcher of the European Project SENSOPAC .I also received my M.S. in Computer Architecture and Networks from the University of Granada in 2007. Finally, I received my Doctorate from the University of Granada in 2013 in Control Engineering and Computer Science.
 
 From 2012 to 2014, I participated in an EU project related to adaptive learning mechanisms and bio-inspired control REALNET. In August 2014, I officially joined the Human Brain Project (HBP); a ten-year, large-scale European research initiative whose goal is to better understand the human brain and its diseases and ultimately to emulate its computational capabilities. In 2015, I obtained an IF Marie Curie Post-Doc Fellowship from the EU Commission, I moved to Dr. Arleo's lab in Paris to work in cerebellar ageing. Finally, I obtained in 2018 a Juan de la Cierva Incorporation Post-Doc Fellowship from the Spanish Government, I moved to Prof. Ros' lab to study cerebellar adaptation and its involvements in ageing.
 
@@ -55,4 +55,3 @@ In such scenario I have been developing my research during these years in the fr
 You can find more information about my professional career in [my personal website](http://www.ugr.es/~nluque/).
 
 Contact email: nluque at ugr dot es.
-
