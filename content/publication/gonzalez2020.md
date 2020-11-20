@@ -42,16 +42,16 @@ projects = ["cerebrot","hbp"]
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "pdf/gonzalez2020.pdf"
 url_preprint = ""
-url_code = " https://github.com/EduardoRosLab/BG_selectivity"
+url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "Journal", url = "https://www.worldscientific.com/doi/10.1142/S0129065720500574" }]
+url_custom = [{name = "Journal", url = "https://www.worldscientific.com/doi/10.1142/S0129065720500574" },{name="Source Code", url="https://github.com/EduardoRosLab/BG_selectivity"}]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

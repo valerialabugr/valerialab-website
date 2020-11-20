@@ -42,7 +42,7 @@ projects = ["cerebrot","hbp"]
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "pdf/marin2020.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
