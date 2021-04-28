@@ -30,8 +30,6 @@ caption = ""
 
 +++
 
-![Ignacio Abadía](/img/iabadia.jpg)
-
 I graduated from Telecommunications Engineering in 2015 and got a M.S. in Secondary Education Teaching in 2016, both at University of Granada. After working for one year in the private industry I joined Prof. Ros’ Applied Computational Neuroscience (ACN) Group in early 2018 with a grant for young researchers.
 
 My interest in Neuroscience related studies began with my end-of-degree project, which was focused on developing a communication device based on a low-cost Brain Computer Interface. The user of the device was able to write words on a screen just by regulating his mental activity. Now with the ACN Group I am working on the robotic integration of an adaptive cerebellum model in order to improve robot’s sensory-motor control.
