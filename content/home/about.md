@@ -10,10 +10,12 @@ weight = 5
 # List your academic interests.
 #[interests]
 #  interests = [
-#    "Computational Neuroscience",
-#    "Cerebellum",
-#    "Neurorobotics",
-#    "Learning"
+#    "Virtual Reality",
+#    "Augmented Reality",
+#    "Mixed Reality",
+#    "Immersive Technology",
+#    "Unity3D",
+#    "Haptic Feedback"
 #  ]
 
 # List your qualifications (such as academic degrees).
@@ -31,18 +33,16 @@ weight = 5
 #  course = "MSc in Computer Science"
 #  institution = "University of Granada"
 #  year = 2006
- 
+
 +++
 
-The Applied Computational Neuroscience (ACN) Group is part of the [Computer Architecture and Technology Department](https://atc.ugr.es/) at [University of Granada](https://www.ugr.es). The group is leaded by Prof. Eduardo Ros. Our group develops and uses computational tools to gain understanding on brain information processing and motor control.
+The Virtual reAlity Lab for sciEntific and industRIal fAcilities (VALERIA lab) is part of the [Computer Architecture and Technology Department](https://atc.ugr.es/) at [University of Granada](https://www.ugr.es). The group is leaded by Assoc. Prof. Jes\'us Garrido and Prof. Eduardo Ros. Our group develops and uses virtual reality environments to gain understanding on the future application of industrial and engineering processes.
 
-We are experts in simulating neural centres (such as cerebellum, inferior olive, basal ganglia and the visual system) both off-line (in large parallel computers) or in real-time (towards embedded simulations) with a robot on the loop (closed perception-action loops).
-
-Among other potential application domains, rehabilitation, control schemes for robots interacting safely with humans and reverse engineering of human brain system are our focus.
+The research group was originally created in 2019 to participate in the virtual reality simulation of the tasks for the maintenance of the [IFMIF-DONES](https://ifmifdones.org/), an international fusion materials irradiation facility. Our group integrates experts in high-performance simulation, robotic systems, virtual reality and inmersive technologies to produce beyond-state-of-the-art simulations of engineering processes since the earliest stages of design until the plant operation.
 
 Our value proposition is the following:
 
-* Computational Neuroscience. We simulate biologically plausible neural systems (at different levels of detail) to contrast working hypotheses related to these centres and evaluate how their computational features are supported by the physiological substrate. We can do large scale simulations (off-line) and medium scale simulations (for embedded systems and interacting with robotics). For this purpose, we can use widely used simulators such as NEST or our own real-time simulator
-([EDLUT](https://github.com/EduardoRosLab/edlut)) optimized for real-time (making intensive use of parallel computing at the CPU and GPU levels).
+* Bringing engineering processes to life. Our virtual reality engines can transform preliminary CAD designs into accurate virtual reality simulations of the processes. It allows
+reliable validation of the processes (detecting unexpected collisions or other conflicts that may emerge in complex infrastructures). These simulations can be further developed into interactive systems for training of the plant operators or virtual visits for public engagement of the projects. Finally, during the operation of the plant, the virtual reality simulations can be connected with the control systems in order to gain enhanced visualization of the current state of the plant at every moment.
 
-* Neurorobotics. Robots with low power actuators can be designed to be inherently safe. In addition, robotics devices made with soft and flexible materials are becoming more frequent in research and industry. But in this case, the dynamics (and even the kinematics) of the plant may not have an analytic reference model. Furthermore, some of these actuators or the plant itself may have long perception or action delays making standard control schemes challenging. In this framework, biology is still far away of our best solution. We use biologically inspired adaptive control (similarly to what the cerebellum is actually doing) based on model acquisition and retrieval. This can be embedded in the control loops for creating safer robots.
+* Feeling teleoperated systems with immersive technologies. Virtual reality simulations can be extended with multiple immmersive technologies to allow the operators to control teleoperated systems like if they were inside the protected area. This is particularly relevant for irradiated areas were the presence of people is limited or even prohibited. In these environments, the integration of virtual reality simulations with mixed reality technologies and haptic devices will facilitate the task of controlling complex and remote robotic systems to perform dexterous and safe operations.

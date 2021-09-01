@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["faculty","cerebellum", "spiking-neural-networks", "neurorobotics"]
+tags = ["faculty","robotics", "virtual reality", "immersive technologies"]
 
 # Project summary to display on homepage.
 summary = "Associate Professor"
@@ -32,7 +32,7 @@ caption = ""
 
 ![Jesus Garrido](/img/jgarrido.jpg)
 
-I am an associate professor in computer architecture and senior researcher at the Computational Neuroscience and Neurorobotics Lab of the University of Granada. My research interests include the creation of computational models to gain knowledge on how the brain obtains such an astonishing performance in so many different tasks and, in particular, motor control. Once we understand the biological bases we apply these computational models to control robots, mimicking the way the brain controls our bodies.
+I am an associate professor in computer architecture, senior researcher at the Computational Neuroscience and Neurorobotics Lab and principal investigator of the VALERIA lab of the University of Granada. My research interests include the creation of computational models to gain knowledge on how engineering and natural processes evolve and robotic control.
 
 I have specialized in cerebellum modelling, as this small brain centre is tighly related to the coordination and movement. I feel mainly attracted by the plasticity mechanisms that support the formation of motor memories and sensorial representations.
 
