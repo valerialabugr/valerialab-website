@@ -36,7 +36,7 @@ weight = 5
 
 +++
 
-The Virtual reAlity Lab for sciEntific and industRIal fAcilities (VALERIA lab) is part of the [Computer Architecture and Technology Department](https://atc.ugr.es/) at [University of Granada](https://www.ugr.es). The group is leaded by Assoc. Prof. Jes\'us Garrido and Prof. Eduardo Ros. Our group develops and uses virtual reality environments to gain understanding on the future application of industrial and engineering processes.
+The Virtual reAlity Lab for sciEntific and industRIal fAcilities (VALERIA lab) is part of the [Computer Architecture and Technology Department](https://atc.ugr.es/) at [University of Granada](https://www.ugr.es). The group is leaded by Assoc. Prof. Jesús Garrido and Prof. Eduardo Ros. Our group develops and uses virtual reality environments to gain understanding on the future application of industrial and engineering processes.
 
 The research group was originally created in 2019 to participate in the virtual reality simulation of the tasks for the maintenance of the [IFMIF-DONES](https://ifmifdones.org/), an international fusion materials irradiation facility. Our group integrates experts in high-performance simulation, robotic systems, virtual reality and inmersive technologies to produce beyond-state-of-the-art simulations of engineering processes since the earliest stages of design until the plant operation.
 

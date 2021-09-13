@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["faculty","cerebellum", "spiking-neural-networks", "neurorobotics"]
+tags = ["faculty","virtual-reality","cerebellum", "spiking-neural-networks", "neurorobotics"]
 
 # Project summary to display on homepage.
 summary = "Full Professor"
@@ -29,7 +29,6 @@ image = ""
 caption = ""
 
 +++
-
 ![Eduardo Ros](/img/eros.jpg)
 
 Dr. Eduardo Ros received the Ph.D. degree in 1997. He is currently Full Professor at the [Department of Computer Architecture and Technology](https://atc.ugr.es/) at the [University of Granada](https://www.ugr.es). He received the Andalucia’s award for best young researchers in 2002. He has published more than 85 papers on international journals. He has three patents under exploitation. He is also co-founder and involved in [Seven
