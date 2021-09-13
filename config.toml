@@ -3,14 +3,14 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "http://acn.ugr.es/"
+baseurl = "https://atcproyectos.ugr.es/valeria/"
 
 # Title of your site
-title = "Applied Computational Neuroscience Research Group"
+title = "VALERIAlab - Virtual reAlity Lab for sciEntific and industRIal fAcilities"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2021"
 
 theme = "academic"
 enableEmoji = true
@@ -23,7 +23,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-116298109-1"
+googleAnalytics = "G-N39N2EXNRL"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -60,7 +60,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "logo_ugr.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = ""
-  address = "CITIC-UGR. Calle Periodista Rafael Gómez Montero 2, 18071, Granada (Spain)"
+  address = "Edificio Florentino García Santos. Calle Gran Vía de Colón 48. Despacho 4.1. 18010, Granada (Spain)"
   office_hours = ""
   phone = ""
   skype = ""
@@ -93,9 +93,9 @@ defaultContentLanguageInSubdir = false
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
   map = 1
-  map_api_key = "AIzaSyDB8IhyLVfmhUia73wvdiMbGOuJNdREb78"
-  latitude = "37.1977852"
-  longitude = "-3.6240453"
+  map_api_key = "AIzaSyCLfb6tJaaA4jB1SZU3gzwReUfMher1qQw"
+  latitude = "37.1808622"
+  longitude = "-3.6003485"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
@@ -232,7 +232,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/eduardoroslab"
+    link = "//github.com/valerialab"
 
   #[[params.social]]
   #  icon = "linkedin"
