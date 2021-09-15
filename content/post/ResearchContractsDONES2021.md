@@ -22,7 +22,7 @@ preview = true
 
 
 
-The [Virtual reAlity Lab for sciEntific and industRIal fAcilities](https://valerialab.ugr.es) (VALERIAlab) research group is looking for talented and motivated professionals to strengthen the recently created laboratory at the [University of Granada](https://www.ugr.es). This lab currently includes 6 multidisciplinary professionals (including graduate students and faculty members) and aims to develop ground-breaking control systems based on virtual reality technologies. Additional positions are expected to be filled in the next few months.
+The [Virtual reAlity Lab for sciEntific and industRIal fAcilities](https://valeria.ugr.es) (VALERIAlab) research group is looking for talented and motivated professionals to strengthen the recently created laboratory at the [University of Granada](https://www.ugr.es). This lab currently includes 6 multidisciplinary professionals (including graduate students and faculty members) and aims to develop ground-breaking control systems based on virtual reality technologies. Additional positions are expected to be filled in the next few months.
 
 ## Research topic
 
