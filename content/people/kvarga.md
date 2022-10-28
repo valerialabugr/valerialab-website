@@ -1,6 +1,6 @@
 +++
 title = "Kornel Varga"
-date = 2021-09-02T14:57:53+01:00
+date = 2020-10-28T14:57:53+01:00
 draft = false
 
 # Tags: can be used for filtering projects.

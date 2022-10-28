@@ -1,6 +1,6 @@
 +++
 title = "Jesús Garrido"
-date = 2015-02-17T10:57:53+01:00
+date = 2022-10-28T10:57:53+01:00
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -8,7 +8,7 @@ draft = false
 tags = ["faculty","robotics", "virtual-reality", "immersive-technologies"]
 
 # Project summary to display on homepage.
-summary = "Associate Professor"
+summary = "Principal Investigator"
 
 # Optional image to display on homepage.
 image_preview = "jgarrido.jpg"
